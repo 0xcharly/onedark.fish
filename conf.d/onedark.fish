@@ -31,11 +31,11 @@ set -l pmenu 333841
 set -g fish_color_normal $mono_1
 set -g fish_color_command $hue_2
 set -g fish_color_keyword $hue_3
-set -g fish_color_quote $hue_5_2
+set -g fish_color_quote $hue_6_2
 set -g fish_color_redirection $mono_1
 set -g fish_color_end $hue_6
 set -g fish_color_error $hue_5
-set -g fish_color_param $hue_3_2
+set -g fish_color_param $mono_1
 set -g fish_color_comment $mono_2
 set -g fish_color_selection --background=$pmenu
 set -g fish_color_search_match --background=$pmenu
